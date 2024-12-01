@@ -1,0 +1,54 @@
+﻿  main.cpp
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4,16): error C2011: "Samochod'': "class" wpisz ponownie definicję
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(4,41): error C2504: „Samochod”: klasa bazowa niezdefiniowana
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(11,10): error C3668: „SamochodBenzyna::Uruchom”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(20,10): error C3668: „SamochodBenzyna::Wylacz”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(29,10): error C3668: „SamochodBenzyna::Jedz”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(38,10): error C3668: „SamochodBenzyna::Tankuj”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(12,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(14,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(21,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(23,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\petrolCar.cpp(30,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(4,45): error C2504: „Samochod”: klasa bazowa niezdefiniowana
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(11,10): error C3668: „SamochodElektryczny::Uruchom”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(20,10): error C3668: „SamochodElektryczny::Wylacz”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(29,10): error C3668: „SamochodElektryczny::Jedz”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(38,10): error C3668: „SamochodElektryczny::Tankuj”: metoda ze specyfikatorem przesłonięcia „override” nie przesłania żadnej metody klasy bazowej
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(12,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(14,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(21,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(23,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\ElectricCar.cpp(30,13): error C2065: "Silnik": niezadeklarowany identyfikator
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(7,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(8,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(9,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(10,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(11,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(12,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(13,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(14,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(15,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(16,13): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "Samochod"
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(22,41): error C2440: "=": nie można konwertować z "SamochodBenzyna *" na "Samochod *"
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(22,39): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(23,45): error C2440: "=": nie można konwertować z "SamochodElektryczny *" na "Samochod *"
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(23,43): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji
+C:\Users\st55642\source\repos\lab08\lab08\main.cpp(31,28): warning C4150: usunięcie wskaźnika do niekompletnego typu "Samochod"; brak wywołania destruktora
+C:\Users\st55642\source\repos\lab08\lab08\car.cpp(4): message : zobacz deklarację „Samochod”
+  car.cpp
+  Generowanie kodu...

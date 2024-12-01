@@ -1,0 +1,10 @@
+﻿  main.cpp
+  matrix.cpp
+  matrixIndexTest.cpp
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(11,32): error C2833: "operator {" nie jest rozpoznany jako operator lub typ
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(11,32): error C2059: błąd składniowy: „newline”
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(12,29): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(14,1): error C2059: błąd składniowy: „}”
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(14,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+C:\Users\st55642\source\repos\lab06\lab06\matrixIndexTest.cpp(18,27): error C2676: dwuargumentowy "[": "Matrix" nie definiuje tego operatora lub konwersji do typu akceptowalnego dla wstępnie zdefiniowanego operatora
+  Generowanie kodu...

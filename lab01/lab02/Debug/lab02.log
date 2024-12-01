@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\st55642\source\repos\lab01\lab02\main.cpp(6,7): error C2668: "func": niejednoznaczne wywołanie przeciążonej funkcji
+C:\Users\st55642\source\repos\lab01\lab02\func.h(3,6): message : może to być „void func(int)”
+C:\Users\st55642\source\repos\lab01\lab02\func.h(2,6): message : lub       "void func(void)"
+C:\Users\st55642\source\repos\lab01\lab02\main.cpp(6,7): message : podczas próby dopasowania listy argumentów "()"
+C:\Users\st55642\source\repos\lab01\lab02\main.cpp(23,7): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\st55642\source\repos\lab01\lab02\main.cpp(25,7): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  func.h
+  Generowanie kodu...
